@@ -1,0 +1,23 @@
+.image {
+    background-image:
+        url("./../../download.jpeg");
+    height: 100vh;
+    font-size: 50px;
+    background-repeat: no-repeat;
+}
+
+.booklist {
+    text-align: center;
+    margin-top: 50px;
+}
+
+.booklist ul li {
+    display: inline-block;
+    border: 1px solid black;
+    padding: 5px;
+    width: 300px;
+}
+
+.booklist ul {
+    margin: 0px;
+}
